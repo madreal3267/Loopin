@@ -20,6 +20,7 @@ ERP와 MES 시스템의 데이터를 통합하여, 인사 및 근태 관리부�
 - **Server** : AWS EC2
 - **DataBase** : Oracle
 - **WS/WAS** : Tomcat
+- **Containerization** : Docker
 - **아이디어 회의** : Notion
 
 
